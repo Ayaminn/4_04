@@ -26,6 +26,6 @@ public class MaruScript : MonoBehaviour {
 			Destroy (Maru);
 			//Destroy (this);
 		}
-		Instantiate (Prefab, collision.contacts[0].point, Prefab.transform.rotation);
+		Instantiate (Prefab, collision.contacts[0].point +new Vector3 (1, 2, 0), Prefab.transform.rotation);
 	}
 }
