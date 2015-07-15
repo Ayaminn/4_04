@@ -8,8 +8,8 @@ public class TargetCreateScript : MonoBehaviour {
 	public GameObject maru;
 	public GameObject batu;
 
-	private float maruWaitingTime = 2.0f;
-	private float batuWaitingTime = 7.0f;
+	private float maruWaitingTime = 4.0f;
+	private float batuWaitingTime = 17.0f;
 
 	// Use this for initialization
 	void Start () {
