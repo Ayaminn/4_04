@@ -27,13 +27,13 @@ public class TargetCreateScript : MonoBehaviour {
 		//float y = Random.Range(-7.5f, 7.5f);
 		//float z = -1;
 
-		int index = Random.Range (0, 3);
+		int index = Random.Range (0, 2);
 
 		//オブジェクトを生産
 		Instantiate(maru, spawners[index].transform.position, Quaternion.identity);
 	}
 	void CreateBatu (){
-		int index = Random.Range (0, 3);
+		int index = Random.Range (0, 2);
 
 		//オブジェクトを生産
 		Instantiate(batu, spawners[index].transform.position, Quaternion.identity);

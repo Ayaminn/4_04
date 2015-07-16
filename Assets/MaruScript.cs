@@ -6,6 +6,8 @@ public class MaruScript : MonoBehaviour {
 	public GameObject Prefab;
 	public GameObject Maru;
 
+	//private int score;
+
 	void Start () {
 		Maru = this.gameObject;
 	}
@@ -24,7 +26,7 @@ public class MaruScript : MonoBehaviour {
 
 			Destroy (collision.gameObject);
 			Destroy (Maru);
-			//Destroy (this);
+			// Destroy (this);
 		}
 		Instantiate (Prefab, collision.contacts[0].point +new Vector3 (1, 2, 0), Prefab.transform.rotation);
 	}
