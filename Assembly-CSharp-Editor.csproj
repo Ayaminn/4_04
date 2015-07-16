@@ -165,13 +165,13 @@
  <HintPath>/Applications/Unity5/Unity5.app/Contents/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>/Users/Ayami_Imai/Desktop/4_04/Assets/Photon Unity Networking/Editor/PhotonNetwork/Newtonsoft.Json.dll</HintPath>
+ <HintPath>/Users/Ayami_Imai/CDevelop/unity_projects/4_04/Assets/Photon Unity Networking/Editor/PhotonNetwork/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="Photon3Unity3D">
- <HintPath>/Users/Ayami_Imai/Desktop/4_04/Assets/Plugins/Photon3Unity3D.dll</HintPath>
+ <HintPath>/Users/Ayami_Imai/CDevelop/unity_projects/4_04/Assets/Plugins/Photon3Unity3D.dll</HintPath>
  </Reference>
  <Reference Include="websocket-sharp">
- <HintPath>/Users/Ayami_Imai/Desktop/4_04/Assets/Plugins/WebSocket/websocket-sharp.dll</HintPath>
+ <HintPath>/Users/Ayami_Imai/CDevelop/unity_projects/4_04/Assets/Plugins/WebSocket/websocket-sharp.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity5/Unity5.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll</HintPath>

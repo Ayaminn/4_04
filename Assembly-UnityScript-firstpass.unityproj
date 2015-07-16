@@ -139,10 +139,10 @@
  <HintPath>/Applications/Unity5/Unity5.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Photon3Unity3D">
- <HintPath>/Users/Ayami_Imai/Desktop/4_04/Assets/Plugins/Photon3Unity3D.dll</HintPath>
+ <HintPath>/Users/Ayami_Imai/CDevelop/unity_projects/4_04/Assets/Plugins/Photon3Unity3D.dll</HintPath>
  </Reference>
  <Reference Include="websocket-sharp">
- <HintPath>/Users/Ayami_Imai/Desktop/4_04/Assets/Plugins/WebSocket/websocket-sharp.dll</HintPath>
+ <HintPath>/Users/Ayami_Imai/CDevelop/unity_projects/4_04/Assets/Plugins/WebSocket/websocket-sharp.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity5/Unity5.app/Contents/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
