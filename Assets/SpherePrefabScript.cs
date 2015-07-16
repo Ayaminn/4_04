@@ -6,6 +6,8 @@ public class SpherePrefabScript : MonoBehaviour {
 	public GameObject Prefab;
 	// クリックした位置座標
 	private Vector3 clickPosition;
+
+	public GameObject gameObject;
 	//public float a;
 
 	// Use this for initialization
